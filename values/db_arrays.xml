@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="full_titles">
+        <item>Computability&#44;Complexity&#44;and Languages&#58; Fundamentals of Theoretical Computer Science</item> <!-- 1. -->
+        <item>Formal Language&#58; A Practical Introduction</item> <!-- 2. -->
+        <item>Concrete Mathematics&#58; A Foundation for Computer Science </item> <!-- 3. -->
+        <item>The Art of Computer Programming&#44;Volumes 1&#8211;4A</item> <!-- 4. -->
+        <item>Algorithms</item> <!-- 5. -->
+        <item>An Introduction to the Theory of Numbers</item> <!-- 6. -->
+        <item>How to Solve It&#44; A New Aspect of Mathematical Method</item> <!-- 7. -->
+        <item>Journey through Genius&#44; The Great Theorems of Mathematics</item> <!-- 8. -->
+        <item>Introduction to Mathematical Thinking</item> <!-- 9. -->
+        <item>Structure and Interpretation of Computer Programs</item> <!-- 10. -->
+        <item>Essential Calculus with Applications</item> <!-- 11. -->
+        <item>Advanced Calculus</item> <!-- 12. -->
+        <item>Fourier Series</item> <!-- 13. -->
+        <item>Introduction to Algorithms&#44;3rd Edition</item>
+    </string-array>
+    
+    <string-array name="short_titles">
+        <item>Computability&#44;Complexity&#44;and Languages</item> <!-- 1. -->
+        <item>Formal Language</item> <!-- 2. -->
+        <item>Concrete Mathematics</item> <!-- 3. -->
+        <item>Art of Computer Programming</item> <!-- 4. -->
+        <item>Algorithms</item> <!-- 5. -->
+        <item>Intro to Theory of Numbers</item> <!-- 6. -->
+        <item>How to Solve It</item> <!-- 7. -->
+        <item>Great Theorems of Mathematics</item> <!-- 8. -->
+        <item>Intro to Math Thinking</item> <!-- 9. -->
+        <item>Structure and Interpretation of Computer Programs</item> <!-- 10. -->
+        <item>Essential Calc</item> <!-- 11. -->
+        <item>Advanced Calc</item> <!-- 12. -->
+        <item>Fourier Series</item> <!-- 13. -->
+        <item>Intro to Algorithms</item> <!-- 14. -->
+    </string-array>
+    
+    <string-array name="isbn_10">
+        <item>0122063821</item> <!-- 1. Computability, Complexity & Languages -->
+        <item>1590281977</item> <!-- 2. Formal Language: A Practical Intro -->
+        <item>0201558025</item> <!-- 3. Concrete Math -->
+        <item>0321751043</item> <!-- 4. Art of Computer Programming -->
+        <item>032157351X</item> <!-- 5. Algorithms -->
+        <item>0199219869</item> <!-- 6. Intro to Theory of Numbers -->
+        <item>069111966X</item> <!-- 7. How to Solve It -->
+        <item>014014739X</item> <!-- 8. Journey through Genius -->
+        <item>0615653634</item> <!-- 9. Intro to Math Thinking -->
+        <item>0262510871</item> <!-- 10. SICP -->
+        <item>0486660974</item> <!-- 11. Essential Calc -->
+        <item>0486661032</item> <!-- 12. Advanced Calc -->
+        <item>0486633179</item> <!-- 13. Fourier Series -->
+        <item>0262033844</item> <!-- 14. Introduction to Algorithms, 3rd Ed -->
+    </string-array>
+    
+    <string-array name="isbn_13">
+        <item>9780122063824</item> <!-- 1. Computability, Complexity & Languages -->
+        <item>9781590281970</item> <!-- 2. Formal Language: A Practical Intro -->
+        <item>0785342558029</item> <!-- 3. Concrete Math -->
+        <item>9780321751041</item> <!-- 4. Art of Computer Programming -->
+        <item>9780321573513</item> <!-- 5. Algorithms -->
+        <item>9780199219865</item> <!-- 6. Intro to Theory of Numbers -->
+        <item>9780691119663</item> <!-- 7. How to Solve It -->
+        <item>9780140147391</item> <!-- 8. Journey through Genius -->
+        <item>9780615653631</item> <!-- 9. Intro to Math Thinking -->
+        <item>9780262510875</item> <!-- 10. SICP -->
+        <item>9780486660974</item> <!-- 11. Essential Calc -->
+        <item>9780486661032</item> <!-- 12. Advanced Calc -->
+        <item>9780486633176</item> <!-- 13. Fourier Series -->
+        <item>9780262033848</item> <!-- 14. Introduction to Algorithms, 3rd Ed -->
+    </string-array>
+    
+    <string-array name="authors">
+        <item>Martin Davis&#44;Ron Sigal&#44;Elaine J&#46; Weyuker</item>  <!-- 1. Computability, Complexity & Languages -->
+        <item>Adams Brooks Weber</item> <!-- 2. Formal Language: A Practical Intro -->
+        <item>Ronald L&#46;Graham&#44;Donald E&#46;Knuth&#44;Oren Patashnik</item> <!-- 3. Concrete Math -->
+        <item>Donald Knuth</item> <!-- 4. Art of Computer Programming -->
+        <item>Robert Sedgewick&#44;Kevin Wayne</item> <!-- 5. Algorithms -->
+        <item>G&#46; H&#46; Hardy&#44;Edward M&#46; Wright&#44; Andrew Wiles</item> <!-- 6. Intro to Theory of Numbers -->
+        <item>G&#46; Polya</item> <!-- 7. How to Solve It -->
+        <item>William Dunham</item> <!-- 8. Journey through Genius -->
+        <item>Keith Devlin</item> <!-- 9. Intro to Math Thinking -->
+        <item>Harold Abelson&#44; Gerald Jay Sussman&#44; Julie Sussman</item> <!-- 10. SICP -->
+        <item>Richard A&#46; Silverman</item> <!-- 11. Essential Calc -->
+        <item>David V&#46; Widder</item> <!-- 12. Advanced Calc -->
+        <item>Georgi P&#46; Tolstov</item> <!-- 13. Fourier Series -->
+        <item>Thomas H&#46; Cormen&#44; Charles E&#46; Leiserson&#44; Ronald L&#46; Rivest&#46; Clifford Stein </item> <!-- 14. Intro to Algorithms -->
+    </string-array>
+    
+    <string-array name="web_links">
+        <item>http://www.amazon.com/Computability-Complexity-Languages-Second-Edition/dp/0122063821</item> <!-- 1 -->
+    	<item>http://www.amazon.com/Formal-Language-A-Practical-Introduction/dp/1590281977</item> <!-- 2 -->
+    	<item>http://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025</item> <!-- 3 -->
+    	<item>http://www.amazon.com/Computer-Programming-Volumes-1&#8211;4A-Boxed/dp/0321751043/ref=pd_sim_b_1</item> <!-- 4 -->
+    	<item>http://www.amazon.com/Algorithms-4th-Edition-Robert-Sedgewick/dp/032157351X/ref=pd_sim_b_3</item> <!-- 5 -->
+    	<item>http://www.amazon.com/An-Introduction-Theory-Numbers-Hardy/dp/0199219869/ref=pd_sim_b_26</item> <!-- 6 -->
+    	<item>http://www.amazon.com/How-Solve-It-Mathematical-Princeton/dp/069111966X/ref=pd_sim_b_41</item> <!-- 7 -->
+    	<item>http://www.amazon.com/Journey-through-Genius-Theorems-Mathematics/dp/014014739X</item> <!-- 8 -->
+    	<item>http://www.amazon.com/Introduction-Mathematical-Thinking-Keith-Devlin/dp/0615653634</item> <!-- 9 -->
+    	<item>http://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871/ref=pd_sim_b_33</item> <!-- 10 -->
+    	<item>http://www.amazon.com/Essential-Calculus-Applications-Dover-Mathematics/dp/0486660974</item> <!-- 11 -->
+    	<item>http://www.amazon.com/Advanced-Calculus-David-V-Widder/dp/0486661032</item> <!-- 12 -->
+    	<item>http://www.amazon.com/Fourier-Series-Dover-Books-Mathematics/dp/0486633179</item> <!-- 13 -->
+    	<item>http://http://www.amazon.com/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844</item>
+    </string-array>
+    
+     <string-array name="book_categories">
+        <item>theory of computation</item> <!-- 1 -->
+    	<item>theory of computation</item> <!-- 2 -->
+    	<item>discrete mathematics</item> <!-- 3 -->
+    	<item>algorithms</item> <!-- 4 -->
+    	<item>algorithms</item> <!-- 5 -->
+    	<item>number theory</item> <!-- 6 -->
+    	<item>problem solving</item> <!-- 7 -->
+    	<item>problem solving</item> <!-- 8 -->
+    	<item>problem solving</item> <!-- 9 -->
+    	<item>programming</item> <!-- 10 -->
+    	<item>calculus</item> <!-- 11 -->
+    	<item>calculus</item> <!-- 12 -->
+    	<item>wavelets</item> <!-- 13 -->
+    	<item>algorithms</item> <!-- 14 -->
+    </string-array>
+
+</resources>
