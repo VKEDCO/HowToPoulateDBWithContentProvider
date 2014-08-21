@@ -24,7 +24,8 @@
         </activity>
         <provider
             android:name=".BookNotesContentProvider"
-            android:authorities="org.vkedco.mobappdev.how_to_populate_db_with_cp.book_notes_contentprovider" >
+            android:authorities="org.vkedco.mobappdev.how_to_populate_db_with_cp.book_notes_contentprovider"
+            android:exported="true">
         </provider>
     </application>
 
